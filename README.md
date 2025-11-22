@@ -27,7 +27,11 @@ This project is built using **Python**. The program uses Python's built-in file 
 
 ### **STEPS TO INSATLL AND RUN THE PROJECT**
 1.Install Python (version 3 or above) on your computer. 
+
+
 2.Download all the Python files along with the text files from the repository. Keep them together inside a single folder.
+
+
 3.Right click on Main.py. Then select Open With -- Python IDLE. This will open the main file of the project, then the menu-driven Smart Study Planner will appear in the terminal window.
 
 ---
