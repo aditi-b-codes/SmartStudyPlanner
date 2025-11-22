@@ -1,0 +1,2 @@
+Complete Python assignment|True|2025-12-01
+Revise physics class notes|False|2025-12-03
