@@ -1,6 +1,8 @@
 #**SMART STUDY PLANNER**
 
 ##**OVERVIEW**
+
+
 Smart Study Planner is an application built using Python which is designed to help students manage their daily tasks, track daily study hours and improve productivity using simple file based storage. This project includes features like *task management*,*daily remainders* and *progress tracking*. It demonstrates concepts of file handling, modular programming and a menu-driven interface.
 
 ---
@@ -17,6 +19,8 @@ Smart Study Planner is an application built using Python which is designed to he
 ---
 
 ##**TECHNOLOGIES/TOOLS USED**
+
+
 This project is built using **Python**. The program uses Python's built-in file handling methods (open,read,write) to store tasks and study hours in text files, so the data remains saved even after closing the program. For development and testing, the code was written and executed using Python IDLE.
 
 ---
@@ -37,10 +41,14 @@ This project is built using **Python**. The program uses Python's built-in file 
  ---
 
  #**SCREENSHOTS**
+ 
+ 
  All screenshots of the project execution are available in:
  
  
  docs/screenshots/
+ 
+ 
  The folder includes:
  - Adding a task
  - Viewing a task
