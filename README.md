@@ -38,6 +38,8 @@ This project is built using **Python**. The program uses Python's built-in file 
 
  #**SCREENSHOTS**
  All screenshots of the project execution are available in:
+ 
+ 
  docs/screenshots/
  The folder includes:
  - Adding a task
