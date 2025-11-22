@@ -1,13 +1,13 @@
-#**SMART STUDY PLANNER**
+# **SMART STUDY PLANNER**
 
-##**OVERVIEW**
+## **OVERVIEW**
 
 
 Smart Study Planner is an application built using Python which is designed to help students manage their daily tasks, track daily study hours and improve productivity using simple file based storage. This project includes features like *task management*,*daily remainders* and *progress tracking*. It demonstrates concepts of file handling, modular programming and a menu-driven interface.
 
 ---
 
-##**FEATURES**
+## **FEATURES**
 - Add Tasks: Allows users to enter task name and deadline.
 - Display Tasks: Displays a list of all the saved tasks.
 - Mark Tasks: Marks the completed tasks
@@ -18,21 +18,21 @@ Smart Study Planner is an application built using Python which is designed to he
 
 ---
 
-##**TECHNOLOGIES/TOOLS USED**
+## **TECHNOLOGIES/TOOLS USED**
 
 
 This project is built using **Python**. The program uses Python's built-in file handling methods (open,read,write) to store tasks and study hours in text files, so the data remains saved even after closing the program. For development and testing, the code was written and executed using Python IDLE.
 
 ---
 
-#**STEPS TO INSATLL AND RUN THE PROJECT**
+## **STEPS TO INSATLL AND RUN THE PROJECT**
 1.Install Python (version 3 or above) on your computer. 
 2.Download all the Python files along with the text files from the repository. Keep them together inside a single folder.
 3.Right click on Main.py. Then select Open With -- Python IDLE. This will open the main file of the project, then the menu-driven Smart Study Planner will appear in the terminal window.
 
 ---
 
-#**INSTRUCTIONS FOR TESTING**
+## **INSTRUCTIONS FOR TESTING**
 - Add a task and verify if it appears when you choose View Tasks.
 - Try deleting a task.
 - Add study hours and check if they are saved correctly.
@@ -40,7 +40,7 @@ This project is built using **Python**. The program uses Python's built-in file 
 
  ---
 
- #**SCREENSHOTS**
+ ## **SCREENSHOTS**
  
  
  All screenshots of the project execution are available in:
