@@ -62,3 +62,22 @@ This project is built using **Python**. The program uses Python's built-in file 
  - View study summary
  - Deleting study hours
 
+###**CHALLENGES FACED**:
+
+•	Integrating multiple modules into one structured application.
+•	Handling backend file storage, task updates and error-free execution.
+
+
+
+###**LEARNINGS AND KEY TAKEAWAYS**:
+
+•	Improved understanding of Python programming and modular code structure.
+•	Hands on experience with creating , organizing and executing real-world projects.
+
+
+###**FUTURE ENHANCEMENTS**:
+
+•	Including AI-based study suggestions based on user performance.
+•	Enhancing the progress analytics dashboard with graphs and weekly insights.
+
+
